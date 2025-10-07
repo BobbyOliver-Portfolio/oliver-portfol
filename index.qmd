@@ -1,0 +1,77 @@
+---
+title: ""
+
+listing:
+  - id: posts-traveler
+    contents: "posts/traveler"
+    type: grid
+    sort-ui: false
+    filter-ui: false
+    sort: "date desc"
+    categories: false
+  
+
+  - id: posts-professional
+    contents: "posts/professional"
+    type: default
+    sort-ui: false
+    filter-ui: false
+    sort: "date desc"
+    categories: false
+    
+    
+  - id: posts-pursuits
+    contents: "posts/pursuits"
+    type: grid
+    sort-ui: false
+    filter-ui: false
+    sort: "date desc"
+    categories: false
+    
+    
+---
+# Geographer
+ 
+
+
+::: {.center-content}
+### Experience
+:::
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+
+
+
+## Traveler
+
+:::{#posts-traveler}
+:::
+
+
+
+
+
+## Professional
+
+:::{#posts-professional}
+::::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Pursuits
+
+:::{#posts-pursuits}
+:::
+
+

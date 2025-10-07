@@ -1,0 +1,34 @@
+---
+title: "Gardening"
+author: "Bobby Oliver"
+date: "2025-07-28"
+lightbox: true
+desc-position: left
+match: auto
+categories: [travel,photos]
+image: "image.jpg"
+---
+
+::: grid-item
+![](../../images/image4.jpg){group="my-gallery"}
+:::
+
+::: grid-item
+![](../../images/image5.jpg){group="my-gallery"}
+:::
+
+::: grid-item
+![](../../images/image6.jpg){group="my-gallery"}
+:::
+
+::: grid-item
+![](../../images/image7.jpg){group="my-gallery1"}
+:::
+
+::: grid-item
+![](../../images/image3.jpg){group="my-gallery1"}
+:::
+
+::: grid-item
+![](../../images/image2.jpg){group="my-gallery1"}
+:::

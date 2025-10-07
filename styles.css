@@ -1,0 +1,20 @@
+/* css styles */
+.grid-item {
+    width: 25%;
+    float: left;
+    background: #808080;
+    border: 2px solid #333;
+    border-color: #808080;
+    border-radius: 10px;
+}
+figcaption {
+    display: none;
+}
+.quarto-figure {
+    margin-bottom: 0px;
+    }
+    
+    
+    .center-content {
+  text-align: center;
+}

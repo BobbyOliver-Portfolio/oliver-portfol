@@ -1,0 +1,9 @@
+---
+title: "Travel"
+author: "Bobby Oliver"
+date: "2025-07-28"
+categories: [travel,photos]
+image: "image.jpg"
+---
+
+Image gallery of travels.
